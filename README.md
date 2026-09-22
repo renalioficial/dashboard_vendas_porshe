@@ -2,6 +2,7 @@
 --
 
 🔗 Acesse o Dashboard: https://renalioficial.github.io/dashboard_vendas_porshe/
+
 <img width="1680" height="870" alt="image" src="https://github.com/user-attachments/assets/2674d263-237b-44c4-b01c-e06cc920004a" />
 
 
