@@ -39,9 +39,3 @@ index.html — O dashboard interativo completo (código, layout e base sanitizad
 
 schema.md.txt — Dicionário de dados e regras de sanitização aplicadas na base.
 
-💡 Como Executar Localmente
---
-
-Baixe o repositório.
-
-Dê um duplo clique no arquivo index.html para abrir diretamente no seu navegador.
